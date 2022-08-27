@@ -57,8 +57,6 @@ Resultados
 
 https://user-images.githubusercontent.com/111370727/187005999-947bbabe-7a7d-4070-92a1-1253d50befcb.mp4
 
-ez/flow2-NodeRed/blob/main/evidencia.mp4)
-
 
 # Evidencias
 Se mostraron en el apartado resultados
