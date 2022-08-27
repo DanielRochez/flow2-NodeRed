@@ -55,7 +55,9 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 A continuación puede verse una vista previa del resultado de este flow.
 Resultados
 
-![Cargando](https://github.com/DanielRochez/flow2-NodeRed/blob/main/evidencia.mp4)
+https://user-images.githubusercontent.com/111370727/187005999-947bbabe-7a7d-4070-92a1-1253d50befcb.mp4
+
+ez/flow2-NodeRed/blob/main/evidencia.mp4)
 
 
 # Evidencias
